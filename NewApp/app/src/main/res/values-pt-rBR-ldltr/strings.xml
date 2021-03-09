@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Novo App</string>
+    <string name="main_activity_hello_world"></string>
+    <string name="main_activity_hello_world2">Ola Mundo!</string>
+    <string name="button">Mudar View</string>
+    <string name="buttonOk">PRONTO</string>
+    <string name="buttonCancel">CANCELA AI</string>
+    <string name="button2">+1 Corno</string>
+    <string name="name">FI DI QUEM?</string>
+</resources>
