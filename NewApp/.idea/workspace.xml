@@ -17,7 +17,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RX8M40E8RPH]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -27,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="valueResourceFile" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -40,6 +41,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="RX8M40E8RPH" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-10T11:48:49.054Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android-custom-view/home/caio/Android/Sdk/sources/android-30/android/widget/EditText.java_SELECTED" value="EditText" />
@@ -140,10 +143,11 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="522" y="304" width="824" height="491" key="AndroidCreateResourceFileDialog/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1614778977495" />
-    <state x="776" y="341" width="367" height="431" key="AndroidCreateXmlResourceDialog" timestamp="1615299849421">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="819" y="341" width="357" height="431" key="AndroidCreateXmlResourceDialog" timestamp="1615386108649">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="776" y="341" width="367" height="431" key="AndroidCreateXmlResourceDialog/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1615299849421" />
+    <state x="819" y="341" width="357" height="431" key="AndroidCreateXmlResourceDialog/72.27.1848.1053/3840.0.1360.768/1920.0.1920.1080@72.27.1848.1053" timestamp="1615386108649" />
     <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1615300939727">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -164,10 +168,11 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1615299959553" />
-    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1614781633691">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="504" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1615382290193">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1614781633691" />
+    <state x="504" y="188" key="SettingsEditor/72.27.1848.1053/3840.0.1360.768/1920.0.1920.1080@72.27.1848.1053" timestamp="1615382290193" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1615296113176">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
