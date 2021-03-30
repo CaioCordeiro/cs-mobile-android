@@ -17,7 +17,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RX8M40E8RPH]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -32,7 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1pFSIETuzPQwJHp7GaiM3mRWkc7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,13 +45,18 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-10T11:48:49.054Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-view/home/caio/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
     <property name="android-custom-view/home/caio/Android/Sdk/sources/android-30/android/widget/EditText.java_SELECTED" value="EditText" />
-    <property name="memory.settings.postsync.last.time.stamp" value="1615298801831" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1615901265772" />
+    <property name="multi-representation-preview/home/caio/Android/Sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
     <property name="multi-representation-preview/home/caio/Android/Sdk/sources/android-30/android/widget/EditText.java_selected" value="Custom views" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.1321042924">
+      <recent name="com.cesarschool.newapp" />
+    </key>
+    <key name="android.template.943019015">
       <recent name="com.cesarschool.newapp" />
     </key>
   </component>
@@ -139,10 +144,11 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="339" y="146" width="1200" height="800" key="AVDManager/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1615297085228" />
-    <state x="522" y="304" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1614778977495">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="574" y="304" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1616507172580">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="522" y="304" width="824" height="491" key="AndroidCreateResourceFileDialog/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1614778977495" />
+    <state x="574" y="304" key="AndroidCreateResourceFileDialog/72.27.1848.1053/1920.0.1920.1080/3840.312.1360.768@72.27.1848.1053" timestamp="1616507172580" />
     <state x="819" y="341" width="357" height="431" key="AndroidCreateXmlResourceDialog" timestamp="1615386108649">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -152,22 +158,42 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1615300939727" />
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1615299959553">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom" timestamp="1616000617991">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1615299959553" />
-    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1615299959553">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1802" height="275" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1080/3840.312.1360.768@72.27.1848.1053" timestamp="1616000617991" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center" timestamp="1616000617990">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1615299959553" />
-    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1615299959553">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1802" height="275" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1080/3840.312.1360.768@72.27.1848.1053" timestamp="1616000617990" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left" timestamp="1616000617990">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1615299959553" />
-    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1615299959553">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1802" height="275" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1080/3840.312.1360.768@72.27.1848.1053" timestamp="1616000617990" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right" timestamp="1616000617991">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1615299959553" />
+    <state width="1802" height="275" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080/3840.312.1360.768@72.27.1848.1053" timestamp="1616000617991" />
+    <state width="1802" height="275" key="GridCell.Tab.1.bottom" timestamp="1615908274059">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.bottom/72.27.1848.1053/1920.0.1920.1080/3840.312.1360.768@72.27.1848.1053" timestamp="1615908274059" />
+    <state width="1802" height="275" key="GridCell.Tab.1.center" timestamp="1615908274059">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.center/72.27.1848.1053/1920.0.1920.1080/3840.312.1360.768@72.27.1848.1053" timestamp="1615908274059" />
+    <state width="1802" height="275" key="GridCell.Tab.1.left" timestamp="1615908274059">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.left/72.27.1848.1053/1920.0.1920.1080/3840.312.1360.768@72.27.1848.1053" timestamp="1615908274059" />
+    <state width="1802" height="275" key="GridCell.Tab.1.right" timestamp="1615908274059">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="275" key="GridCell.Tab.1.right/72.27.1848.1053/1920.0.1920.1080/3840.312.1360.768@72.27.1848.1053" timestamp="1615908274059" />
     <state x="504" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1615382290193">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -177,5 +203,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.27.1920.1053/1920.0.1920.1080/3840.312.1360.768@0.27.1920.1053" timestamp="1615296113176" />
+    <state x="721" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1616000607394">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="721" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.27.1848.1053/1920.0.1920.1080/3840.312.1360.768@72.27.1848.1053" timestamp="1616000607394" />
   </component>
 </project>
